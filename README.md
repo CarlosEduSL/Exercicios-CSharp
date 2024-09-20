@@ -1,6 +1,6 @@
 # Projetos e Exercícios em C#
 
-Este repositório contém os códigos dos exercícios e projetos que desenvolvi na plataforma da [DIO]([URL do link](https://web.dio.me/track/coding-the-future-xp-full-stack-developer)), no bootcamp da XP de Full Stack Devleloper. 
+Este repositório contém os códigos dos exercícios e projetos que desenvolvi na plataforma da [DIO](https://web.dio.me/track/coding-the-future-xp-full-stack-developer), no bootcamp da XP de Full Stack Devleloper. 
 Os exemplos incluem desde operações matemáticas simples até o uso de classes e estruturas condicionais mais avançadas, refletindo a aplicação de conceitos essenciais da linguagem de programação C# em cenários práticos.
 
 ## Conceitos e Funcionalidades Explorados:
